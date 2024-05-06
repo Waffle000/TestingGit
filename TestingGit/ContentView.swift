@@ -16,7 +16,8 @@ struct ContentView: View {
             Text("Hello, world!")
             Text("Hai Hello")
             Text("Enrico Maricar")
-            Text("Testing")
+            Text("David Chandra")
+            Text("Apple Developer Academy @IL Cohort 2024")
         }
         .padding()
     }
